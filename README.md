@@ -19,16 +19,8 @@ As we believe that music has the power to change the world and touch people's li
 
 To use our music player, simply clone this repository to your local machine and open the `index.html` file in your preferred web browser.
 
-```bash
-git clone https://github.com/your-username/music-player.git
-cd music-player
-
 ## Contributors
 
 - Jatin Bhardwaj ([@BhardwajJatin2109](https://github.com/BhardwajJatin2109))
 - Jivansh Midha ([@JivanshM](https://github.com/JivanshM))
 - Kanav Kumar ([@Kanav2111](https://github.com/Kanav2111))
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
