@@ -1,5 +1,5 @@
 # Music Player Made Using HTML and CSS
-hey
+
 ## Introduction
 
 Welcome to our collaborative project: the **Music Player Made Using HTML and CSS**. Crafted by our dynamic team consisting of Jatin Bhardwaj, Jivansh Midha, and Kanav Kumar, our project aims to deliver an immersive and visually appealing music playback experience while showcasing the power of web development.
